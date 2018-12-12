@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
 	name='LM',
-	version='0.1.3',
+	version='0.1.5',
 	packages=['LM'],
 	url='https://github.com/Wajdy759/LM',
 	license='MIT',
