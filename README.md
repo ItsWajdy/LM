@@ -11,7 +11,7 @@ pip install numpy
 ## Installing
 To install and use this package simply run:
 ```
-pip install pip install --index-url https://test.pypi.org/simple/ LM
+pip install --index-url https://test.pypi.org/simple/ LM
 ```
 Then you can simply import it using:
 ```
